@@ -11,7 +11,7 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 ---
 
-## 始于好奇：一年级与电脑结缘，探索中解锁技能
+# 始于好奇：一年级与电脑结缘，探索中解锁技能
 
 王淳彧的数字之路始于童年。一年级时，他便独立注册 QQ、玩转社交平台，还热衷折腾系统安装，自学 FydeOS 等系统，逐渐从电脑新手成长为能指导家人与老师的 "小技术达人"。
 
@@ -21,7 +21,7 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 ---
 
-## 团队同行：从零散组队到稳定协作，打磨硬核项目
+# 团队同行：从零散组队到稳定协作，打磨硬核项目
 
 受校园小组合作启发，王淳彧在编程社区发起团队招募，与伙伴组建 XyKong 团队，确立 Gitee 代码协作、飞书文档沟通的工作体系。
 
@@ -31,7 +31,7 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 ---
 
-## 少年科创启示：兴趣为帆，坚持为桨
+# 少年科创启示：兴趣为帆，坚持为桨
 
 从自学编程的小学生，到能独立开发项目、组建团队的少年开发者，王淳彧的成长印证了兴趣驱动、自主探索的力量。他以实践打破年龄边界，在数字世界中持续创造，为当代青少年科创成长提供了鲜活样本。
 
