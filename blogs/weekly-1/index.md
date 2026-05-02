@@ -29,7 +29,7 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 ::resource{id=LegacyItem16}
 
---
+---
 
 ## 少年科创启示：兴趣为帆，坚持为桨
 
