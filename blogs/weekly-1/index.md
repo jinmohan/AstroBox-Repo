@@ -1,6 +1,6 @@
 ---
 type: "作者专访"
-title: "AstroBox 更新日志"
+title: "困惑的成长"
 subtitle: "鱼子酱的人生故事"
 author: "lesetong"
 date: 2026-05-02
