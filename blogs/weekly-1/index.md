@@ -9,6 +9,8 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 在数字原生代成长的 05 后群体中，一位少年凭借持续探索与跨界实践，在编程、设计、协作工具领域留下亮眼足迹。2023 年 7 月，王淳彧在语雀数字花园发布个人成长长文，完整回溯从一年级接触电脑、自学编程到组建团队、参与产品共创的成长历程，展现 Z 世代少年的科创天赋与成长力量。
 
+---
+
 ## 始于好奇：一年级与电脑结缘，探索中解锁技能
 
 王淳彧的数字之路始于童年。一年级时，他便独立注册 QQ、玩转社交平台，还热衷折腾系统安装，自学 FydeOS 等系统，逐渐从电脑新手成长为能指导家人与老师的 "小技术达人"。
@@ -17,6 +19,8 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 ![搜星对此十分震惊](https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly-1/zhenjing.png)
 
+---
+
 ## 团队同行：从零散组队到稳定协作，打磨硬核项目
 
 受校园小组合作启发，王淳彧在编程社区发起团队招募，与伙伴组建 XyKong 团队，确立 Gitee 代码协作、飞书文档沟通的工作体系。
@@ -24,6 +28,8 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 面对技术挑战，他从产品设计转向自学 Python，重构优化初代机器人项目，推出 RingRobotX，凭借扎实架构与实用功能获得行业认可。五年探索中，他坚持严谨选人、高效分工，让团队从青涩走向成熟，持续攻坚技术难题。
 
 ::resource{id=LegacyItem16}
+
+--
 
 ## 少年科创启示：兴趣为帆，坚持为桨
 
