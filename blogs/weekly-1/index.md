@@ -23,7 +23,7 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 面对技术挑战，他从产品设计转向自学 Python，重构优化初代机器人项目，推出 RingRobotX，凭借扎实架构与实用功能获得行业认可。五年探索中，他坚持严谨选人、高效分工，让团队从青涩走向成熟，持续攻坚技术难题。
 
-::resource{LegacyItem16}
+::resource{#LegacyItem16}
 
 ## 少年科创启示：兴趣为帆，坚持为桨
 
