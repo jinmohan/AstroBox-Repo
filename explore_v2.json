@@ -3,49 +3,20 @@
     {
       "id": "3",
       "type": "normal",
-      "content": "将自己的资源<br/>发布到AstroBox",
       "heightPC": 130,
-      "appearance": {
-        "dark": {
-          "background": {
-            "color": "rgba(71, 71, 75, 0.30)"
-          }
-        },
-        "light": {
-          "background": {
-            "color": "#F2F9FF"
-          }
-        }
-      },
       "canClose": false,
-      "actionsAlign": "left",
-      "actions": [
-        {
-          "id": "action3",
-          "content": "前往 Creator Console",
-          "url": "https://example.com/action3"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "type": "normal",
-      "content": "AstroBox<br/>Weekly #1",
-      "heightPC": 130,
-      "appearance": {
-        "dark": {
-          "background": {
-            "color": "rgba(71, 71, 75, 0.30)"
-          }
-        },
-        "light": {
-          "background": {
-            "color": "#F2F9FF"
-          }
-        }
+
+      "contentMode": "default",
+      "content": {
+        "title": "更新日志",
+        "tag": "CBT3 正式发布",
+        "introduction": "点击查看本次重大更新说明"
       },
-      "canClose": false,
-      "actionsAlign": "left",
+
+      "background": {
+        "img": "weekly-1/zhenjing.png"
+      },
+
       "actions": [
         {
           "id": "action91",
