@@ -2,7 +2,7 @@
   "masonryCards": [
     {
       "id": "3",
-      "type": "big",
+      "type": "top",
       "heightPC": 130,
       "canClose": false,
 
@@ -27,6 +27,31 @@
     },
     {
       "id": "4",
+      "type": "big",
+      "heightPC": 130,
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "更新日志",
+        "tag": "CBT3 正式发布",
+        "introduction": "点击查看本次重大更新说明"
+      },
+
+      "background": {
+        "img": "weekly-1/zhenjing.png"
+      },
+
+      "actions": [
+        {
+          "id": "action91",
+          "content": "阅读",
+          "url": "weekly-1/index.md"
+        }
+      ]
+    },
+    {
+      "id": "5",
       "type": "normal",
       "heightPC": 130,
       "canClose": false,
@@ -51,7 +76,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "type": "normal",
       "heightPC": 130,
       "canClose": false,
