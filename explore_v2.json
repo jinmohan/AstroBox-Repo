@@ -19,6 +19,7 @@
       "actions": [
         {
           "id": "update",
+          "content": "阅读",
           "url": "update/cbtupdate.md"
         }
       ]
@@ -42,6 +43,7 @@
       "actions": [
         {
           "id": "notice",
+          "content": "阅读",
           "url": "notice/cbt.md"
         }
       ]
@@ -65,6 +67,7 @@
       "actions": [
         {
           "id": "91",
+          "content": "阅读",
           "url": "weekly-1/index.md"
         }
       ]
