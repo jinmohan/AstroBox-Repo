@@ -4,7 +4,7 @@ title: "CBT3 正式发布"
 subtitle: "查看本次重大更新说明"
 author: "Yulimfish"
 date: 2026-05-04
-cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/update/update.jpg"
+cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/update/update.png"
 ---
 
 

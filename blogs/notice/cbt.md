@@ -4,7 +4,7 @@ title: "先锋测试"
 subtitle: "先锋测试正式开始"
 author: "Yulimfish"
 date: 2026-02-21
-cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/notice/cover.jpg"
+cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/notice/cover.png"
 ---
 
 所有喜爱、关注与支持 AstroBox 的用户大家好，我们在 2026 年 2 月 21 日举行了 AstroBox 2.0 超前瞻主题演讲，届时为大家介绍了 AstroBox 2.0 的新功能、新特性、新架构，以及我们在这个项目上过去半年的努力。我们计划在接下来的一段时间逐步开始 AstroBox 2.0 的先锋测试，并逐步发布前瞻中提到的各项功能。
