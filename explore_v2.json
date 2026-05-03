@@ -59,37 +59,12 @@
       },
 
       "background": {
-        "img": "weekly-1/cover.png"
+        "img": "weekly-1/cover.jpg"
       },
 
       "actions": [
         {
           "id": "91",
-          "url": "weekly-1/index.md"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "type": "normal",
-      "heightPC": 130,
-      "canClose": false,
-
-      "contentMode": "default",
-      "content": {
-        "title": "更新日志3",
-        "tag": "CBT3 正式发布3",
-        "introduction": "点击查看本次重大更新说明3"
-      },
-
-      "background": {
-        "img": "weekly-1/zhenjing.png"
-      },
-
-      "actions": [
-        {
-          "id": "action91",
-          "content": "阅读",
           "url": "weekly-1/index.md"
         }
       ]
