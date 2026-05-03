@@ -2,7 +2,7 @@
   "masonryCards": [
     {
       "id": "3",
-      "type": "normal",
+      "type": "big",
       "heightPC": 130,
       "canClose": false,
 
@@ -24,8 +24,59 @@
           "url": "weekly-1/index.md"
         }
       ]
+    },
+    {
+      "id": "3",
+      "type": "normal",
+      "heightPC": 130,
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "更新日志2",
+        "tag": "CBT3 正式发布2",
+        "introduction": "点击查看本次重大更新说明2"
+      },
+
+      "background": {
+        "img": "weekly-1/zhenjing.png"
+      },
+
+      "actions": [
+        {
+          "id": "action91",
+          "content": "阅读",
+          "url": "weekly-1/index.md"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "normal",
+      "heightPC": 130,
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "更新日志3",
+        "tag": "CBT3 正式发布3",
+        "introduction": "点击查看本次重大更新说明3"
+      },
+
+      "background": {
+        "img": "weekly-1/zhenjing.png"
+      },
+
+      "actions": [
+        {
+          "id": "action91",
+          "content": "阅读",
+          "url": "weekly-1/index.md"
+        }
+      ]
     }
   ],
+  
   "featuredResourceIds": ["979808741600", "moe.yzf.comic"],
   "featuredAuthors": [
     {
