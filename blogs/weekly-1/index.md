@@ -3,7 +3,7 @@ type: "作者专访"
 title: "困惑的成长"
 subtitle: "鱼子酱的人生故事"
 author: "lesetong"
-date: 2026-05-02
+date: 2026-05-04
 cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly-1/cover.jpg"
 ---
 

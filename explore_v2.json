@@ -2,75 +2,69 @@
   "masonryCards": [
     {
       "id": "3",
-      "type": "top",
-      "heightPC": 130,
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "更新日志",
-        "tag": "CBT3 正式发布",
+        "title": "CBT3 正式发布",
+        "tag": "更新日志",
         "introduction": "点击查看本次重大更新说明"
       },
 
       "background": {
-        "img": "weekly-1/zhenjing.png"
+        "img": "update/update.png"
       },
 
       "actions": [
         {
-          "id": "action91",
-          "content": "阅读",
-          "url": "weekly-1/index.md"
+          "id": "update",
+          "url": "update/cbtupdate.md"
         }
       ]
     },
     {
       "id": "4",
-      "type": "big",
-      "heightPC": 130,
+      "type": "normal",
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "更新日志",
-        "tag": "CBT3 正式发布",
-        "introduction": "点击查看本次重大更新说明"
+        "title": "先锋测试",
+        "tag": "公告",
+        "introduction": "先锋测试正式开始"
       },
 
       "background": {
-        "img": "weekly-1/zhenjing.png"
+        "img": "notice/cover.png"
       },
 
       "actions": [
         {
-          "id": "action91",
-          "content": "阅读",
-          "url": "weekly-1/index.md"
+          "id": "notice",
+          "url": "notice/cbt.md"
         }
       ]
     },
     {
       "id": "5",
       "type": "normal",
-      "heightPC": 130,
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "更新日志2",
-        "tag": "CBT3 正式发布2",
-        "introduction": "点击查看本次重大更新说明2"
+        "title": "困惑的成长",
+        "tag": "作者专访",
+        "introduction": "鱼子酱的人生故事"
       },
 
       "background": {
-        "img": "weekly-1/zhenjing.png"
+        "img": "weekly-1/cover.png"
       },
 
       "actions": [
         {
-          "id": "action91",
-          "content": "阅读",
+          "id": "91",
           "url": "weekly-1/index.md"
         }
       ]
